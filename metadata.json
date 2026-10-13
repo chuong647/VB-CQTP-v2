@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix VB - Tiếng Pháp",
+  "description": "Ứng dụng nhập file PDF, trích xuất dữ liệu cột Base Document thành cột Trích yếu tiếng Việt, hiển thị bảng chữ Times New Roman cỡ 14 và có chức năng sao chép.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
